@@ -32,7 +32,7 @@ print('Swapped values are:',x ,y)
 
 ## OUTPUT:
 
-![github logo](swapping.png)
+![github logo](SWAPPING.png)
 
 
 ## RESULT:
